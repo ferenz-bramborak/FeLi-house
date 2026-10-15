@@ -1,0 +1,59 @@
+name: Nabídky a web
+
+on:
+  schedule:
+    - cron: "20 4 * * *"      # každé ráno: stáhnout nabídky a nasadit web
+  workflow_dispatch:           # ruční spuštění z karty Actions
+  push:
+    branches: [main]
+    paths-ignore:              # hlasy, poznámky a rozbor čte web živě přes API, nové nasazení netřeba
+      - "web/data/oznaceni.json"
+      - "web/data/nastaveni.json"
+      - "web/data/rozbor.json"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: nabidky-a-web
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m unittest domy.test_domy
+      - name: Stažení nabídek
+        if: github.event_name != 'push'
+        run: python -m domy.run
+      - name: Uložení dat do repozitáře
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+          git add data/stav.json web/data/nabidky.json web/data/mapa.png web/data/mapa.json web/foto
+          if ! git diff --cached --quiet; then
+            git commit -m "Nabídky $(date -u +%F)"
+            for i in 1 2 3; do git pull --rebase -q origin main && git push -q && break; sleep 5; done
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

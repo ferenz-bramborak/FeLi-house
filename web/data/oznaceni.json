@@ -1,0 +1,32 @@
+{
+ "sr-1987719244": {
+  "hlasy": {
+   "Štěpán": "top"
+  },
+  "pocit": {},
+  "poznamka": "",
+  "cas": "2026-10-15T19:24:45.984Z",
+  "snapshot": {
+   "nazev": "Prodej rodinného domu 119 m², pozemek 2192 m²",
+   "cena": 11950000,
+   "obec": "Hradčany",
+   "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/hradcany/1987719244",
+   "foto": "foto/sr-1987719244.webp"
+  }
+ },
+ "sr-4158513228": {
+  "hlasy": {
+   "Štěpán": "top"
+  },
+  "pocit": {},
+  "poznamka": "",
+  "cas": "2026-10-15T19:24:38.954Z",
+  "snapshot": {
+   "nazev": "Prodej rodinného domu 155 m², pozemek 1000 m²",
+   "cena": 9990000,
+   "obec": "Hvozdec",
+   "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/hvozdec/4158513228",
+   "foto": "foto/sr-4158513228.webp"
+  }
+ }
+}
