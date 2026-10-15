@@ -32141,7 +32141,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-10-15",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -32208,7 +32208,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-10-15",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -37331,7 +37331,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-10-15",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -54173,7 +54173,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-10-15",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -64214,29 +64214,263 @@
     "vlak": 1038
    },
    "poi_odhad": true
+  },
+  "id-6ace65697d32b39c8406d6e0": {
+   "id": "id-6ace65697d32b39c8406d6e0",
+   "zdroj": "iDNES Reality",
+   "url": "https://reality.idnes.cz/detail/prodej/dum/sentice/6ace65697d32b39c8406d6e0/",
+   "nazev": "Prodej domu 113 m² s pozemkem 2 011 m²",
+   "cena": 8990000,
+   "obec": "Sentice",
+   "adresa": "Sentice",
+   "lat": null,
+   "lon": null,
+   "presnost": "",
+   "pokoje": 4,
+   "dispozice": "4+1",
+   "uzitna": 113,
+   "pozemek": 2011,
+   "typ": "bungalov",
+   "poloha": "samostatný",
+   "stavba": "cihla",
+   "stav": "před rekonstrukcí",
+   "penb": "G",
+   "rk": "CENTURY 21 Czech Republic",
+   "popis": "Rodinný dům 4+1 s garáží, chatou a rozlehlou zahradou 2 011 m² Sentice\nVe výhradním zastoupení nabízíme rodinný dům o dispozici 4+1 s garáží, prostornou zahradou a samostatnou chatou v klidné okrajové části obce Sentice.\nDům se zastavěnou plochou 97 m² je aktuálně ve fázi rekonstrukce. Již byly provedeny nové rozvody elektřiny a vody a omítky v prvním patře. Nový majitel tak má možnost dokončit bydlení podle vlastních představ.\nDispozice nabízí prostorný obývací pokoj s kuchyňskou částí, tři samostatné pokoje, dvě koupelny, technickou místnost a garáž.\nPřízemí: vstupní předsíň (3,3 m²), obytný prostor rozdělený na obývací a kuchyňskou část (37,7 m²), koupelna (5,8 m²), technická místnost (6 m²) a garáž (20 m²).\n1. patro: chodba (10,7 m²), pokoj (19,6 m²) s balkonem (4 m²), pokoj (13,8 m²), pokoj (12,2 m²) s terasou (6,4 m²) a koupelna (10,3 m²).\nVelkou předností je pozemek o výměře 2 011 m², na kterém se nachází také chata o ploše 20 m² s novými rozvody elektřiny a zděná přístavba se skladovacími prostory.\nZajímavý potenciál představuje možnost rozdělení pozemku a samostatného prodeje jeho části s chatou, což by mohlo pomoci financovat dokončení rekonstrukce.\nV ceně nemovitosti je zahrnuta technologie vytápění a ohřevu vody v hodnotě 225 000 Kč, včetně kotle na dřevo BIOTEC Lambda 25 a dvou akumulačních nádrží o objemu 800 litrů. Součástí prodeje je také zahradní traktor AL-KO.\nNemovitost nabízí dostatek prostoru, soukromí a zajímavé možnosti využití pro rodinné bydlení i investici.\nDům je ihned k dispozici. Pro více informací nebo domluvení prohlídky nás neváhejte kontaktovat.",
+   "fotky": [
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/3/7/d/c4bbb03fac6e0442288054631ec20.webp",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/f/1/8/04c7cebcf37448f588c8049655df8.jpg",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/f/1/8/04c7cebcf37448f588c8049655df8.jpg"
+   ],
+   "vlastnosti": [
+    "garáž"
+   ],
+   "voda": "",
+   "kanalizace": "",
+   "garaz": true,
+   "sklep": null,
+   "poi": {},
+   "prvni": "2026-10-15",
+   "posledni": "2026-10-15",
+   "aktivni": true,
+   "_detail": true,
+   "_dv": 2,
+   "historie": [
+    {
+     "d": "2026-10-15",
+     "cena": 8990000
+    }
+   ],
+   "dum": "sr-1903235148"
+  },
+  "id-6a036a9121ead91b370c2229": {
+   "id": "id-6a036a9121ead91b370c2229",
+   "zdroj": "iDNES Reality",
+   "url": "https://reality.idnes.cz/detail/prodej/dum/troubsko-jihlavska/6a036a9121ead91b370c2229/",
+   "nazev": "Prodej domu 162 m² s pozemkem 132 m²",
+   "cena": 12970000,
+   "obec": "Troubsko",
+   "adresa": "Jihlavská, Troubsko",
+   "lat": 49.1770758333,
+   "lon": 16.5037502778,
+   "presnost": "adresa",
+   "pokoje": 5,
+   "dispozice": "5+1",
+   "uzitna": 162,
+   "pozemek": 132,
+   "typ": "",
+   "poloha": "řadový",
+   "stavba": "cihla",
+   "stav": "",
+   "penb": "D",
+   "rk": "NEXT REALITY GROUP a.s.",
+   "popis": "Prodej Rodinný dům, 162m², Troubsko Výjimečný rodinný dům 5+1 s fotovoltaikou a potenciálem dvougeneračního bydlení – Troubsko Hledáte domov, který vám dá prostor, klid i chytré řešení do budoucna? Právě jste ho našli. Na okraji oblíbené obce Troubsko, jen pár minut od Brna, nabízíme rodinný dům,…",
+   "fotky": [
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/3/d/1/88b07a5733eae216c24718a532358.webp",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/9/4/9/f7a91b682811e7b538d0a1ea0b8d7.jpg",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/9/4/9/f7a91b682811e7b538d0a1ea0b8d7.jpg"
+   ],
+   "vlastnosti": [
+    "sklep",
+    "fotovoltaika",
+    "klidná lokalita"
+   ],
+   "voda": "",
+   "kanalizace": "veřejná kanalizace",
+   "garaz": null,
+   "sklep": true,
+   "poi": {
+    "skolka": 624,
+    "skola": 941,
+    "obchod": 824,
+    "lekar": 713,
+    "bus": 30,
+    "vlak": 2207
+   },
+   "prvni": "2026-10-15",
+   "posledni": "2026-10-15",
+   "aktivni": true,
+   "_detail": true,
+   "_dv": 2,
+   "historie": [
+    {
+     "d": "2026-10-15",
+     "cena": 12970000
+    }
+   ],
+   "priroda": {
+    "les_m": 559,
+    "les_1km": 13,
+    "les_2km": 29,
+    "vyska": 284,
+    "prevyseni": 110,
+    "clenitost": 20
+   },
+   "_geo": "49.1771,16.5038",
+   "vzdusne": {
+    "rosice": 8.4,
+    "strelice": 2.8,
+    "padochov": 12.2
+   },
+   "poi_odhad": true,
+   "dum": "sr-2293796940"
+  },
+  "id-6ace6db7df6f8e4b02045d49": {
+   "id": "id-6ace6db7df6f8e4b02045d49",
+   "zdroj": "iDNES Reality",
+   "url": "https://reality.idnes.cz/detail/prodej/dum/neslovice-hlavni/6ace6db7df6f8e4b02045d49/",
+   "nazev": "Prodej domu 88 m² s pozemkem 316 m²",
+   "cena": 2990000,
+   "obec": "Neslovice",
+   "adresa": "Hlavní, Neslovice",
+   "lat": 49.143497,
+   "lon": 16.387395,
+   "presnost": "adresa",
+   "pokoje": 3,
+   "dispozice": "",
+   "uzitna": 88,
+   "pozemek": 316,
+   "typ": "bungalov",
+   "poloha": "řadový",
+   "stavba": "cihla",
+   "stav": "před rekonstrukcí",
+   "penb": "G",
+   "rk": "REMAX Czech Republic",
+   "popis": "Prodej rodinného domu ke kompletní rekonstrukci či demolici, 87,68 m², Neslovice Hledáte dům, který si upravíte podle vlastních představ, nebo zvažujete výstavbu nového rodinného domu? Tato nemovitost v Neslovicích nabízí obě možnosti. Záleží jen na Vašich plánech a představách o budoucím bydlení.…",
+   "fotky": [
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/8/2/7/5e4a5fab236f5eac46fdb718b5a90.webp",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/f/e/d/d8d760380548e8771fd0fe5295860.jpg",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/f/e/d/d8d760380548e8771fd0fe5295860.jpg"
+   ],
+   "vlastnosti": [],
+   "voda": "vodovod",
+   "kanalizace": "veřejná kanalizace",
+   "garaz": null,
+   "sklep": null,
+   "poi": {
+    "skolka": 185,
+    "skola": 164,
+    "obchod": 64,
+    "lekar": 3657,
+    "bus": 98,
+    "vlak": 3539
+   },
+   "prvni": "2026-10-15",
+   "posledni": "2026-10-15",
+   "aktivni": true,
+   "_detail": true,
+   "_dv": 2,
+   "historie": [
+    {
+     "d": "2026-10-15",
+     "cena": 2990000
+    }
+   ],
+   "priroda": {
+    "les_m": 182,
+    "les_1km": 26,
+    "les_2km": 43,
+    "vyska": 337,
+    "prevyseni": 167,
+    "clenitost": 31
+   },
+   "_geo": "49.1435,16.3874",
+   "vzdusne": {
+    "rosice": 4.3,
+    "strelice": 8.2,
+    "padochov": 3.0
+   },
+   "poi_odhad": true,
+   "dum": "sr-158404684"
+  },
+  "id-6a58cc0f170abe2a860d6bd4": {
+   "id": "id-6a58cc0f170abe2a860d6bd4",
+   "zdroj": "iDNES Reality",
+   "url": "https://reality.idnes.cz/detail/prodej/dum/brno/6a58cc0f170abe2a860d6bd4/",
+   "nazev": "Prodej chaty/chalupy 26 m² s pozemkem 1 m²",
+   "cena": 2150000,
+   "obec": "Brno - Bystrc",
+   "adresa": "Brno - Bystrc",
+   "lat": null,
+   "lon": null,
+   "presnost": "",
+   "pokoje": null,
+   "dispozice": "",
+   "uzitna": 26,
+   "pozemek": 1,
+   "typ": "bungalov",
+   "poloha": "samostatný",
+   "stavba": "dřevostavba",
+   "stav": "",
+   "penb": "G",
+   "rk": "CENTURY 21 Czech Republic",
+   "popis": "Útulná rekreační chata u Brněnské přehrady osada Mečkov Nabízíme k prodeji útulnou rekreační chatu s číslem evidenčním o zastavěné ploše 26 m² v oblíbené osadě Mečkov u Brněnské přehrady. Chata se nachází na pozemku ve správě Lesy České republiky a je užívána na základě platné nájemní smlouvy. V…",
+   "fotky": [
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/2/e/f/444387c509058b394a09a531bc656.webp",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/a/b/7/0e2d9765868c1f66801f6a2acdd08.jpg",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/a/b/7/0e2d9765868c1f66801f6a2acdd08.jpg"
+   ],
+   "vlastnosti": [],
+   "voda": "",
+   "kanalizace": "",
+   "garaz": null,
+   "sklep": null,
+   "poi": {},
+   "prvni": "2026-10-15",
+   "posledni": "2026-10-15",
+   "aktivni": true,
+   "_detail": true,
+   "_dv": 2,
+   "historie": [
+    {
+     "d": "2026-10-15",
+     "cena": 2150000
+    }
+   ],
+   "dum": "id-6a58cc0f170abe2a860d6bd4"
   }
  },
  "zdroje": {
   "Sreality": {
    "ok": true,
    "pocet": 449,
-   "cas": "2026-10-15T18:33:36+00:00"
+   "cas": "2026-10-15T19:41:21+00:00"
   },
   "iDNES Reality": {
    "ok": true,
-   "pocet": 434,
-   "cas": "2026-10-15T18:36:51+00:00"
+   "pocet": 433,
+   "cas": "2026-10-15T19:41:55+00:00"
   },
   "Bezrealitky": {
    "ok": true,
    "pocet": 12,
-   "cas": "2026-10-15T18:37:26+00:00"
+   "cas": "2026-10-15T19:42:08+00:00"
   },
   "Reas": {
    "ok": true,
    "pocet": 72,
-   "cas": "2026-10-15T18:38:53+00:00"
+   "cas": "2026-10-15T19:42:26+00:00"
   }
  },
- "aktualizovano": "2026-10-15T18:38:53+00:00"
+ "aktualizovano": "2026-10-15T19:42:26+00:00"
 }
