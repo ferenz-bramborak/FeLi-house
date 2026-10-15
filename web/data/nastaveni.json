@@ -1,1 +1,18 @@
-{}
+{
+ "vahy": {
+  "les": 20,
+  "kopce": 6,
+  "rodina": 16,
+  "d1": 6,
+  "pokoje": 10,
+  "pozemek": 12,
+  "typ": 8,
+  "stavba": 5,
+  "stav": 10,
+  "cena": 5,
+  "plocha": 5,
+  "site": 19,
+  "sluzby": 4,
+  "pocit": 12
+ }
+}
