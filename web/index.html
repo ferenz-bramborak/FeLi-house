@@ -7,6 +7,7 @@
 <meta name="description" content="Rodinné domy u Brna pro FeLi – nabídky, výběr a porovnání">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M4 16 16 5l12 11v12H4z' fill='%2324553f'/%3E%3Crect x='13' y='19' width='6' height='9' fill='%23f3f5f1'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Source+Sans+3:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
 /* Layout: lepkavá hlavička se záložkami, pod ní seznam karet (1–2 sloupce); Top = srovnávací tabulka + rozbor od Clauda */
@@ -134,8 +135,19 @@ table.cmp .thumb { width: 100%; aspect-ratio: 16/10; max-width: 100%; background
 .btn[disabled] { opacity: .5; cursor: default; }
 .btn.ghost { background: none; color: var(--spruce); border: 1px solid var(--spruce); }
 .mapbox { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 10px; }
-.mapbox canvas { width: 100%; height: auto; display: block; border-radius: 6px; }
-.legend { font-size: .78rem; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 14px; margin-top: 6px; }
+.mapbox .mapa { width: 100%; height: min(70vh, 560px); border-radius: 6px; z-index: 0; }
+.legend { font-size: .78rem; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 14px; margin-top: 8px; align-items: center; }
+.legend label { display: inline-flex; gap: 5px; align-items: center; cursor: pointer; }
+.pin { display: grid; place-items: center; font: 700 12px/1 var(--font-body); color: #fff; border-radius: 50%; border: 3px solid #b77a12; box-shadow: 0 1px 4px rgb(0 0 0 / .35); }
+.pin.top { background: #b77a12; }
+.pin.mozna { background: #fff; color: #b77a12; }
+.pin.dalsi { background: #5d6b61; border: 2px solid #fff; }
+.pin.rodina { background: #18231c; border: 2px solid #fff; border-radius: 4px; transform: rotate(45deg); }
+.pin.rodina span { transform: rotate(-45deg); }
+.leaflet-tooltip.stitek { font: 600 12px var(--font-body); padding: 2px 6px; border-radius: 5px; }
+.popup { display: grid; gap: 4px; min-width: 200px; font: 13px/1.35 var(--font-body); }
+.popup img { width: 220px; max-width: 100%; aspect-ratio: 16/10; object-fit: cover; border-radius: 5px; }
+.popup b { font-size: 15px; }
 .w-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); gap: 10px 22px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 16px; }
 .w-grid label { display: grid; gap: 2px; font-size: .9rem; font-weight: 600; }
 .w-grid label span { font-weight: 400; color: var(--muted); font-size: .8rem; }
@@ -199,8 +211,9 @@ table.cmp .thumb { width: 100%; aspect-ratio: 16/10; max-width: 100%; background
     <p class="prose" style="margin:0">Domy, které jste označili <b>Top</b> nebo <b>Možná</b>. Srovnání je vedle sebe, pod ním rozbor od Clauda: pořadí, plusy a minusy a na co se zeptat na prohlídce.</p>
     <div id="cmp"></div>
     <div class="mapbox" id="mapbox" hidden>
-      <canvas id="map" width="1100" height="620" aria-label="Mapa: rodina, top domy a lesy"></canvas>
-      <div class="legend"><span>Zelená plocha = les (ESA WorldCover)</span><span>◆ rodina</span><span>● Top</span><span>○ Možná</span></div>
+      <div class="mapa" id="mapa" aria-label="Mapa: rodina a vybrané domy"></div>
+      <div class="legend"><span>◆ rodina</span><span>● Top</span><span>○ Možná</span><label><input type="checkbox" id="m-vse"> ostatní nabídky</label><span>Vpravo nahoře přepnete mapu, turistickou mapu s vrstevnicemi nebo leteckou.</span></div>
+    </div>
     </div>
     <h2 class="sec">Rozbor od Clauda</h2>
     <div class="actions">
@@ -231,6 +244,7 @@ table.cmp .thumb { width: 100%; aspect-ratio: 16/10; max-width: 100%; background
 </main>
 <div class="toast" id="toast" hidden></div>
 
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script>
 const VAHY_VYCHOZI = { les: 20, kopce: 6, rodina: 16, d1: 6, pokoje: 10, pozemek: 12, typ: 8, stavba: 5, stav: 10, cena: 5, plocha: 5, site: 3, sluzby: 4, pocit: 12 };
 const VAHY_POPIS = {
@@ -533,42 +547,53 @@ function renderTop() {
   for (const e of box.querySelectorAll("[data-who]")) e.textContent = e.dataset.who === S.me ? "ty" : e.dataset.who;
   kresliMapu(v);
 }
+let MAPA = null, VRSTVA = null;
+function popupDomu(d, s) {
+  const odk = (d.odkazy || []).filter((o) => o.url).map((o) => `<a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.zdroj)}</a>`).join(" · ");
+  return `<div class="popup">${d.foto ? `<img src="${esc(d.foto)}" alt="">` : ""}<b>${fmtCena(d.cena)}</b><span>${esc(d.obec || "")}${s != null ? ` · skóre ${s}` : ""}</span>
+    <span>${esc([d.dispozice || pokojeTxt(d.pokoje), d.uzitna ? d.uzitna + " m²" : "", d.pozemek ? "pozemek " + d.pozemek + " m²" : ""].filter(Boolean).join(" · "))}</span>
+    <span>${d.priroda?.les_m != null ? `les ${fmtM(d.priroda.les_m)}` : ""}${dojezdTxt(d) ? ` · ${dojezdTxt(d)}` : ""}</span>${odk}</div>`;
+}
 function kresliMapu(v) {
-  const m = S.mapa; const cv = $("#map");
-  if (!m || !S.meta) { $("#mapbox").hidden = true; return; }
+  if (!window.L || !S.meta) { $("#mapbox").hidden = true; return; }
   $("#mapbox").hidden = false;
-  const [B0, L0, B1, L1] = m.bbox;
-  const pts = [...(S.meta.rodina || []), ...v.filter((o) => o.d.lat).map((o) => o.d)];
-  let lat0 = Math.min(...pts.map((p) => p.lat)) - 0.04, lat1 = Math.max(...pts.map((p) => p.lat)) + 0.04;
-  let lon0 = Math.min(...pts.map((p) => p.lon)) - 0.07, lon1 = Math.max(...pts.map((p) => p.lon)) + 0.07;
-  const k = Math.cos((lat0 + lat1) / 2 * Math.PI / 180);           // km na stupeň délky vs. šířky
-  const want = cv.width / cv.height, have = ((lon1 - lon0) * k) / (lat1 - lat0);
-  if (have < want) { const d = ((lat1 - lat0) * want / k - (lon1 - lon0)) / 2; lon0 -= d; lon1 += d; }
-  else { const d = ((lon1 - lon0) * k / want - (lat1 - lat0)) / 2; lat0 -= d; lat1 += d; }
-  const ctx = cv.getContext("2d"); const W = cv.width, H = cv.height;
-  const css = getComputedStyle(document.documentElement);
-  const col = (n) => css.getPropertyValue(n).trim();
-  const X = (lon) => ((lon - lon0) / (lon1 - lon0)) * W, Y = (lat) => ((lat1 - lat) / (lat1 - lat0)) * H;
-  const img = new Image();
-  img.onload = () => {
-    ctx.fillStyle = col("--sunk"); ctx.fillRect(0, 0, W, H);
-    const sx = (lon) => ((lon - L0) / (L1 - L0)) * img.width, sy = (lat) => ((B1 - lat) / (B1 - B0)) * img.height;
-    ctx.globalAlpha = 0.85; ctx.drawImage(img, sx(lon0), sy(lat1), sx(lon1) - sx(lon0), sy(lat0) - sy(lat1), 0, 0, W, H); ctx.globalAlpha = 1;
-    ctx.font = "600 15px 'Source Sans 3', sans-serif";
-    for (const r of S.meta.rodina || []) {
-      const x = X(r.lon), y = Y(r.lat);
-      ctx.fillStyle = col("--fg"); ctx.beginPath(); ctx.moveTo(x, y - 8); ctx.lineTo(x + 8, y); ctx.lineTo(x, y + 8); ctx.lineTo(x - 8, y); ctx.fill();
-      ctx.fillText(r.nazev, x + 11, y + 5);
+  if (!MAPA) {
+    const osm = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: "© OpenStreetMap" });
+    const topo = L.tileLayer("https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", { maxZoom: 17, attribution: "© OpenStreetMap, SRTM · © OpenTopoMap (CC-BY-SA)" });
+    const letecka = L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", { maxZoom: 19, attribution: "© Esri, Maxar, Earthstar Geographics" });
+    MAPA = L.map("mapa", { layers: [osm], scrollWheelZoom: false });
+    L.control.layers({ "Mapa": osm, "Turistická (lesy, vrstevnice)": topo, "Letecká": letecka }, null, { collapsed: true }).addTo(MAPA);
+    L.control.scale({ imperial: false }).addTo(MAPA);
+    MAPA.on("click", () => MAPA.scrollWheelZoom.enable());
+    $("#m-vse").onchange = () => kresliMapu(vybrane());
+  }
+  if (VRSTVA) VRSTVA.remove();
+  VRSTVA = L.layerGroup().addTo(MAPA);
+  const ikona = (cls, txt, size) => L.divIcon({ className: "", html: `<div class="pin ${cls}" style="width:${size}px;height:${size}px"><span>${txt}</span></div>`, iconSize: [size, size], iconAnchor: [size / 2, size / 2] });
+  const vybraneId = new Set(v.map((x) => x.d.id));
+  if ($("#m-vse").checked) {
+    for (const d of S.domy) {
+      if (!d.lat || vybraneId.has(d.id) || stavDomu(d.id) === "ne") continue;
+      L.marker([d.lat, d.lon], { icon: ikona("dalsi", "", 12) }).bindPopup(popupDomu(d, skore(d))).addTo(VRSTVA);
     }
-    v.forEach((o, i) => {
-      if (!o.d.lat) return;
-      const x = X(o.d.lon), y = Y(o.d.lat);
-      ctx.lineWidth = 3; ctx.strokeStyle = col("--amber"); ctx.fillStyle = o.st === "top" ? col("--amber") : col("--surface");
-      ctx.beginPath(); ctx.arc(x, y, 9, 0, 7); ctx.fill(); ctx.stroke();
-      ctx.fillStyle = col("--fg"); ctx.fillText(o.d.obec || "", x + 12, y - 8);
-    });
-  };
-  img.src = "data/mapa.png";
+  }
+  const body = [];
+  for (const r of S.meta.rodina || []) {
+    L.marker([r.lat, r.lon], { icon: ikona("rodina", "", 16), zIndexOffset: 500 }).bindTooltip(r.nazev, { permanent: true, direction: "right", offset: [10, 0], className: "stitek" }).addTo(VRSTVA);
+    body.push([r.lat, r.lon]);
+  }
+  v.forEach((o, i) => {
+    if (!o.d.lat) return;
+    L.marker([o.d.lat, o.d.lon], { icon: ikona(o.st === "top" ? "top" : "mozna", o.st === "top" ? "★" : "", 26), zIndexOffset: 1000 })
+      .bindPopup(popupDomu(o.d, o.s)).bindTooltip(`${o.d.obec || ""} · ${fmtCena(o.d.cena)}`, { permanent: true, direction: "top", offset: [0, -14], className: "stitek" }).addTo(VRSTVA);
+    body.push([o.d.lat, o.d.lon]);
+  });
+  const klic = body.map((b) => b.join()).join("|");
+  setTimeout(() => {
+    if (!$("#mapa").offsetWidth) return;              // záložka je skrytá – vycentruje se při zobrazení
+    MAPA.invalidateSize();
+    if (kresliMapu.klic !== klic) { MAPA.fitBounds(body, { padding: [40, 40], maxZoom: 13 }); kresliMapu.klic = klic; }
+  }, 60);
 }
 
 /* ---------- rozbor od Clauda ---------- */
@@ -667,8 +692,8 @@ function renderStatus() {
   $("#l-jmeno").value = S.me;
   aktualizujPrihlaseni();
   try {
-    const [n, mapa] = await Promise.all([fetch("data/nabidky.json", { cache: "no-store" }).then((r) => r.json()), fetch("data/mapa.json").then((r) => r.json()).catch(() => null)]);
-    S.meta = n.meta; S.domy = n.polozky || []; S.mapa = mapa;
+    const n = await fetch("data/nabidky.json", { cache: "no-store" }).then((r) => r.json());
+    S.meta = n.meta; S.domy = n.polozky || [];
   } catch (e) {
     $("#list").innerHTML = `<div class="empty"><h2>Nabídky se nepodařilo načíst</h2>Zkuste stránku obnovit.</div>`; $("#status").textContent = ""; return;
   }
