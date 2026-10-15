@@ -4,9 +4,11 @@
    "Štěpán": "top",
    "Ferenz": "top"
   },
-  "pocit": {},
+  "pocit": {
+   "Ferenz": 3
+  },
   "poznamka": "",
-  "cas": "2026-10-15T20:44:24.937Z",
+  "cas": "2026-10-15T20:58:53.451Z",
   "snapshot": {
    "nazev": "Prodej rodinného domu 119 m², pozemek 2192 m²",
    "cena": 11950000,
