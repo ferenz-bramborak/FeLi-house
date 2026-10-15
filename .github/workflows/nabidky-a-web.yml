@@ -25,6 +25,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main              # vždy nejnovější stav, ne commit z doby spuštění
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -42,8 +44,16 @@ jobs:
           git add data/stav.json web/data/nabidky.json web/data/mapa.png web/data/mapa.json web/foto
           if ! git diff --cached --quiet; then
             git commit -m "Nabídky $(date -u +%F)"
-            for i in 1 2 3; do git pull --rebase -q origin main && git push -q && break; sleep 5; done
+            for i in 1 2 3; do
+              # při souběhu vyhrají čerstvě stažená data (-X theirs = náš commit při rebase)
+              if git pull --rebase -X theirs -q origin main; then git push -q && break; else git rebase --abort || true; fi
+              sleep 5
+            done
           fi
+      - name: Kontrola dat před nasazením
+        run: |
+          if grep -rlE '^(<<<<<<<|>>>>>>>)' web; then echo "Konflikt v datech" && exit 1; fi
+          for f in web/data/*.json; do python -c "import json,sys; json.load(open(sys.argv[1]))" "$f"; done
       - uses: actions/upload-pages-artifact@v3
         with:
           path: web
