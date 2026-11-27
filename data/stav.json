@@ -96,7 +96,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -161,7 +161,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -230,7 +230,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -508,7 +508,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -577,7 +577,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -643,7 +643,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -773,7 +773,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -842,7 +842,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -908,7 +908,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -974,7 +974,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -1020,7 +1020,7 @@
    "zdroj": "Sreality",
    "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/medlov/1347883084",
    "nazev": "Prodej rodinného domu 125 m², pozemek 388 m²",
-   "cena": 10600000,
+   "cena": 9890000,
    "obec": "Medlov",
    "adresa": "Medlov",
    "lat": 49.037212,
@@ -1046,13 +1046,17 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
     {
      "d": "2026-10-15",
      "cena": 10600000
+    },
+    {
+     "d": "2026-11-27",
+     "cena": 9890000
     }
    ],
    "priroda": {
@@ -1117,7 +1121,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -1197,7 +1201,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -1262,7 +1266,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -1327,7 +1331,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -1583,7 +1587,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -1643,7 +1647,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -1722,7 +1726,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -1858,7 +1862,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -1927,7 +1931,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -1992,7 +1996,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -2066,7 +2070,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -2212,7 +2216,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -2300,7 +2304,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -2451,7 +2455,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -2532,7 +2536,7 @@
     "u lesa"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -2614,7 +2618,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -2895,7 +2899,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -3238,7 +3242,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -3310,7 +3314,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -3380,7 +3384,7 @@
     "u lesa"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -3471,7 +3475,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -3551,7 +3555,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -3615,7 +3619,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -3751,7 +3755,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -3835,7 +3839,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -4029,7 +4033,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -4099,7 +4103,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -4163,7 +4167,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -4233,7 +4237,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -4319,7 +4323,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -4394,7 +4398,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -4461,7 +4465,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -4527,7 +4531,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -4590,7 +4594,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -4821,7 +4825,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -5015,7 +5019,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -5245,7 +5249,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -5312,7 +5316,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -5380,7 +5384,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -5447,7 +5451,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -5511,7 +5515,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -5577,7 +5581,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -5649,7 +5653,7 @@
     "u lesa"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -5794,7 +5798,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -5856,7 +5860,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -5982,7 +5986,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -6064,7 +6068,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -6129,7 +6133,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -6204,7 +6208,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -6273,7 +6277,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -6467,7 +6471,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -6529,7 +6533,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -6593,8 +6597,8 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-17",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -6658,7 +6662,7 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -6731,7 +6735,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -6800,7 +6804,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -6883,7 +6887,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -6963,7 +6967,7 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -7033,7 +7037,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -7102,7 +7106,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -7171,7 +7175,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -7241,7 +7245,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -7548,7 +7552,7 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -7616,7 +7620,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -7671,7 +7675,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -7738,7 +7742,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -7818,7 +7822,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -7884,7 +7888,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -8095,7 +8099,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -8179,7 +8183,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -8253,7 +8257,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -8399,7 +8403,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -8466,7 +8470,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -8643,7 +8647,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -8709,7 +8713,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -8854,7 +8858,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -9131,7 +9135,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -9263,7 +9267,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -9326,7 +9330,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -9390,7 +9394,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -9454,7 +9458,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -9533,7 +9537,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -9680,7 +9684,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -9748,7 +9752,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -9889,7 +9893,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -9957,7 +9961,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -10099,7 +10103,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -10565,7 +10569,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -10632,8 +10636,8 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-25",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -10863,7 +10867,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -10929,7 +10933,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -11000,7 +11004,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -11079,7 +11083,7 @@
     "u lesa"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -11146,7 +11150,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -11214,7 +11218,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -11296,7 +11300,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -11444,7 +11448,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -11589,7 +11593,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -11734,7 +11738,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -11801,7 +11805,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -11883,7 +11887,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -12016,7 +12020,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -12080,7 +12084,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -12270,7 +12274,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -12340,7 +12344,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -12405,7 +12409,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -12613,7 +12617,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -12679,7 +12683,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -12812,7 +12816,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -12885,7 +12889,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -13169,7 +13173,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -13313,7 +13317,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -13377,7 +13381,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -13441,7 +13445,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -13510,7 +13514,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -13628,7 +13632,7 @@
    "zdroj": "Sreality",
    "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/brno/3160391756",
    "nazev": "Prodej rodinného domu 213 m², pozemek 207 m²",
-   "cena": 13990000,
+   "cena": 13500000,
    "obec": "Brno",
    "adresa": "Šmilovského, Slatina",
    "lat": 49.18333055130767,
@@ -13659,13 +13663,17 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
     {
      "d": "2026-10-15",
      "cena": 13990000
+    },
+    {
+     "d": "2026-11-27",
+     "cena": 13500000
     }
    ],
    "priroda": {
@@ -13726,7 +13734,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -13809,7 +13817,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -13948,7 +13956,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -14029,7 +14037,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -14109,7 +14117,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -14176,7 +14184,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -14241,7 +14249,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -14451,7 +14459,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -14521,7 +14529,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -14580,7 +14588,7 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -14710,7 +14718,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -14766,7 +14774,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -14838,7 +14846,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -15110,7 +15118,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -15177,7 +15185,7 @@
    "vlastnosti": [],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -15243,7 +15251,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -15378,7 +15386,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -15448,7 +15456,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -15514,7 +15522,7 @@
     "fotovoltaika"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -15584,7 +15592,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -15821,7 +15829,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -15895,7 +15903,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -15959,7 +15967,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -16029,7 +16037,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -16095,7 +16103,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -16219,7 +16227,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -16285,7 +16293,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -16414,7 +16422,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -16559,7 +16567,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -16629,7 +16637,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -16695,7 +16703,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -16761,7 +16769,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -16825,7 +16833,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -17123,7 +17131,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -17268,7 +17276,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -17419,7 +17427,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -17486,7 +17494,7 @@
     "fotovoltaika"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -17631,7 +17639,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -17786,7 +17794,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -17918,7 +17926,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -18047,7 +18055,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -18126,7 +18134,7 @@
     "u lesa"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -18196,7 +18204,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -18346,7 +18354,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -18411,7 +18419,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -18478,7 +18486,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -18544,7 +18552,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -18608,7 +18616,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -18740,7 +18748,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -18804,7 +18812,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -18875,7 +18883,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -18940,7 +18948,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -19064,7 +19072,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -19261,7 +19269,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -19322,7 +19330,7 @@
     "fotovoltaika"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -19396,7 +19404,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -19601,7 +19609,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -19749,7 +19757,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -19878,7 +19886,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -19943,7 +19951,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -20074,7 +20082,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -20148,7 +20156,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -20294,7 +20302,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -20373,7 +20381,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -20440,7 +20448,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -20659,7 +20667,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -20938,7 +20946,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -20996,7 +21004,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -21061,7 +21069,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -21191,7 +21199,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -21254,7 +21262,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -21312,7 +21320,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -21458,7 +21466,7 @@
    "vlastnosti": [],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -21604,7 +21612,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -21750,7 +21758,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -21817,7 +21825,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -21898,7 +21906,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -21971,7 +21979,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -22037,7 +22045,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -22110,7 +22118,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -22316,7 +22324,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -22385,7 +22393,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -22512,7 +22520,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -22857,7 +22865,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -23002,7 +23010,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -23155,7 +23163,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -23226,7 +23234,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -23573,7 +23581,7 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -23898,7 +23906,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -24037,7 +24045,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -24165,7 +24173,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -24231,7 +24239,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -24316,7 +24324,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -24462,7 +24470,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -24529,7 +24537,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -24609,7 +24617,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -24674,7 +24682,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -24874,7 +24882,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -25018,7 +25026,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -25082,7 +25090,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -25148,7 +25156,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -25222,7 +25230,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -25281,7 +25289,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -25340,7 +25348,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -25399,7 +25407,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -25456,7 +25464,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -25535,7 +25543,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -25741,7 +25749,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -25806,7 +25814,7 @@
     "fotovoltaika"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -25871,7 +25879,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -25939,7 +25947,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -26007,7 +26015,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -26074,7 +26082,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -26140,7 +26148,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -26210,7 +26218,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -26486,7 +26494,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -26552,7 +26560,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -26624,7 +26632,7 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -26703,7 +26711,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -26784,7 +26792,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -26850,7 +26858,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -26980,7 +26988,7 @@
     "fotovoltaika"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -27050,7 +27058,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -27188,7 +27196,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -27334,7 +27342,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -27450,7 +27458,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -27514,7 +27522,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -27678,7 +27686,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -27742,7 +27750,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -27823,7 +27831,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -27889,7 +27897,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -27955,7 +27963,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -28100,7 +28108,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -28181,7 +28189,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -28247,7 +28255,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -28394,7 +28402,7 @@
     "fotovoltaika"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -28467,7 +28475,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -28596,7 +28604,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -28675,7 +28683,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -28834,7 +28842,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -28900,7 +28908,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -29032,7 +29040,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -29100,7 +29108,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -29243,7 +29251,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -29310,7 +29318,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -29456,7 +29464,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -29612,7 +29620,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -29678,7 +29686,7 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -29758,7 +29766,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -29825,7 +29833,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -29889,7 +29897,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -30018,7 +30026,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -30194,7 +30202,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -30251,7 +30259,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -30313,7 +30321,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -30440,7 +30448,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -30505,7 +30513,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -30570,7 +30578,7 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -30700,7 +30708,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -30766,7 +30774,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -30914,7 +30922,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -30993,7 +31001,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -31132,7 +31140,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -31375,7 +31383,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -31414,7 +31422,7 @@
    "zdroj": "iDNES Reality",
    "url": "https://reality.idnes.cz/detail/prodej/dum/medlov/6ad0d6fb9810a5e7950a0ee8/",
    "nazev": "Prodej domu 125 m² s pozemkem 388 m²",
-   "cena": 10600000,
+   "cena": 9890000,
    "obec": "Medlov",
    "adresa": "Medlov",
    "lat": null,
@@ -31440,13 +31448,17 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
     {
      "d": "2026-10-15",
      "cena": 10600000
+    },
+    {
+     "d": "2026-11-27",
+     "cena": 9890000
     }
    ],
    "dum": "sr-1347883084",
@@ -31484,8 +31496,8 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-24",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -31570,7 +31582,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -31654,7 +31666,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -31735,7 +31747,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -31999,7 +32011,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -32052,7 +32064,7 @@
    "zdroj": "iDNES Reality",
    "url": "https://reality.idnes.cz/detail/prodej/dum/ricany-brnenska/6ab3f94afde8fc9f3e0a54c9/",
    "nazev": "Prodej domu 196 m² s pozemkem 472 m²",
-   "cena": 7300000,
+   "cena": 6490000,
    "obec": "Říčany",
    "adresa": "Brněnská, Říčany",
    "lat": 49.2142434967,
@@ -32080,13 +32092,17 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
     {
      "d": "2026-10-15",
      "cena": 7300000
+    },
+    {
+     "d": "2026-11-27",
+     "cena": 6490000
     }
    ],
    "priroda": {
@@ -32312,7 +32328,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -32375,7 +32391,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -32433,8 +32449,8 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-25",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -32498,7 +32514,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -32640,7 +32656,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -32772,7 +32788,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -32832,8 +32848,8 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-25",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -32947,8 +32963,8 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-17",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -33057,7 +33073,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -33124,7 +33140,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -33197,7 +33213,7 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -33283,7 +33299,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -33365,8 +33381,8 @@
     "fotovoltaika"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-10-22",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -33442,7 +33458,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -33557,7 +33573,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -33835,7 +33851,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -33901,7 +33917,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -33960,7 +33976,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -34099,7 +34115,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -34165,7 +34181,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -34316,7 +34332,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -34473,8 +34489,8 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-24",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -34542,7 +34558,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -34688,7 +34704,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -34754,7 +34770,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -34799,7 +34815,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -34885,7 +34901,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -35145,7 +35161,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -35218,7 +35234,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -35298,7 +35314,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -35378,7 +35394,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -35462,7 +35478,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -35530,7 +35546,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -35755,7 +35771,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -35891,7 +35907,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -35979,7 +35995,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -36164,7 +36180,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -36227,7 +36243,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -36363,7 +36379,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -36494,7 +36510,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -36695,8 +36711,8 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-25",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -36775,7 +36791,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -36819,7 +36835,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -36885,7 +36901,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -37107,7 +37123,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -37190,7 +37206,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -37270,7 +37286,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -37423,7 +37439,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -37466,7 +37482,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -37507,7 +37523,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -37551,7 +37567,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -37617,8 +37633,8 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-24",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -37882,7 +37898,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -37957,7 +37973,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -38075,7 +38091,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -38138,7 +38154,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -38214,7 +38230,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -38620,7 +38636,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -38693,7 +38709,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -38825,7 +38841,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -38896,7 +38912,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -38965,7 +38981,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -39117,7 +39133,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -39521,7 +39537,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -39658,7 +39674,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -39816,7 +39832,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -40135,7 +40151,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -40183,7 +40199,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -40250,7 +40266,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -40322,7 +40338,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -40466,7 +40482,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -40615,7 +40631,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -40686,7 +40702,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -40756,7 +40772,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -40868,7 +40884,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -40936,7 +40952,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -40991,7 +41007,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -41431,7 +41447,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -41515,7 +41531,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -41734,7 +41750,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -41791,7 +41807,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -41837,7 +41853,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -41911,7 +41927,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -42114,8 +42130,8 @@
     "fotovoltaika"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-10-22",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -42317,7 +42333,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -42649,7 +42665,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -42779,7 +42795,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -42837,7 +42853,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -42911,7 +42927,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -42978,7 +42994,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -43060,7 +43076,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -43201,7 +43217,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -43264,7 +43280,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -43396,7 +43412,7 @@
     "u lesa"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -43463,7 +43479,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -43535,7 +43551,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -43670,7 +43686,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -43748,7 +43764,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -43817,7 +43833,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -43883,7 +43899,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -44263,7 +44279,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -44573,7 +44589,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -44718,7 +44734,7 @@
     "fotovoltaika"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -45106,7 +45122,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -45190,7 +45206,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -45335,7 +45351,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -45402,7 +45418,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -45467,7 +45483,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -45609,7 +45625,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -45841,7 +45857,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -45926,7 +45942,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -46052,7 +46068,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -46099,7 +46115,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -46220,7 +46236,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -46269,7 +46285,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -46359,7 +46375,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -46453,8 +46469,8 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-10",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -46539,7 +46555,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -46614,7 +46630,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -46674,7 +46690,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -46734,7 +46750,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -46794,7 +46810,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -46974,7 +46990,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -47058,7 +47074,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -47136,7 +47152,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -47223,7 +47239,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -47281,7 +47297,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -47411,7 +47427,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -47642,7 +47658,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -47937,7 +47953,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -48097,7 +48113,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -48170,7 +48186,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -48396,7 +48412,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -48479,8 +48495,8 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-10",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -48542,7 +48558,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -48624,7 +48640,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -48684,7 +48700,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -48751,7 +48767,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -49050,7 +49066,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -49115,7 +49131,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -49182,7 +49198,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -49249,7 +49265,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -49322,7 +49338,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -49457,7 +49473,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -49513,7 +49529,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -49728,7 +49744,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -49944,7 +49960,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -50013,7 +50029,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -50150,7 +50166,7 @@
     "fotovoltaika"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -50231,7 +50247,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -50364,7 +50380,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -50427,7 +50443,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -50493,7 +50509,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -50560,7 +50576,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -50638,7 +50654,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -50706,7 +50722,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -50788,7 +50804,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -50937,7 +50953,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -51091,7 +51107,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -51158,7 +51174,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -51223,7 +51239,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -51286,7 +51302,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -51401,7 +51417,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -51464,7 +51480,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [],
@@ -51525,7 +51541,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -51652,7 +51668,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -51736,7 +51752,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -51882,7 +51898,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -51941,7 +51957,7 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52004,7 +52020,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52070,7 +52086,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52199,7 +52215,7 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52279,7 +52295,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52338,7 +52354,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52403,7 +52419,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52469,7 +52485,7 @@
     "tepelné čerpadlo"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52615,7 +52631,7 @@
     "fotovoltaika"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52687,7 +52703,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52758,7 +52774,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52814,7 +52830,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52872,7 +52888,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52930,7 +52946,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -52986,7 +53002,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -53054,7 +53070,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -53137,7 +53153,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -53214,7 +53230,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -53504,7 +53520,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -53543,7 +53559,7 @@
    "zdroj": "iDNES Reality",
    "url": "https://reality.idnes.cz/detail/prodej/dum/brno-myslinova/6ab391e93104d676630a2077/",
    "nazev": "Prodej domu 140 m² s pozemkem 403 m²",
-   "cena": 13490000,
+   "cena": 11990000,
    "obec": "Brno - Královo Pole",
    "adresa": "Myslínova, Brno - Královo Pole",
    "lat": null,
@@ -53570,7 +53586,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -53581,6 +53597,10 @@
     {
      "d": "2026-10-23",
      "cena": 13490000
+    },
+    {
+     "d": "2026-11-27",
+     "cena": 11990000
     }
    ],
    "dum": "sr-1669079116",
@@ -53618,7 +53638,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -53753,7 +53773,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -53801,7 +53821,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -53876,7 +53896,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -53942,7 +53962,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -54074,7 +54094,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -54341,7 +54361,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -54399,7 +54419,7 @@
     "u lesa"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -54442,7 +54462,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -54511,7 +54531,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -54574,7 +54594,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -54639,7 +54659,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -54699,7 +54719,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -54766,7 +54786,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -54835,7 +54855,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -55040,8 +55060,8 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-22",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "historie": [
     {
@@ -55106,7 +55126,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -55176,7 +55196,7 @@
    ],
    "prvni": "2026-10-15",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "historie": [
     {
@@ -55499,7 +55519,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -55562,7 +55582,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -55629,7 +55649,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -55835,7 +55855,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -55904,7 +55924,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -56053,7 +56073,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -56120,7 +56140,7 @@
     "bazén"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -56310,7 +56330,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -56377,7 +56397,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -56443,7 +56463,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -56560,7 +56580,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -56626,7 +56646,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -56692,7 +56712,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -56758,7 +56778,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -56865,7 +56885,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -57037,7 +57057,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -57108,7 +57128,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -57285,7 +57305,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -57730,7 +57750,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -57800,7 +57820,7 @@
     "sklep"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -57909,7 +57929,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -58042,7 +58062,7 @@
     "klidná lokalita"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -58168,7 +58188,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -58228,7 +58248,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -58269,7 +58289,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -58328,7 +58348,7 @@
     "k rekonstrukci"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -58617,7 +58637,7 @@
     "krb"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -58658,7 +58678,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -58721,7 +58741,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -59035,7 +59055,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -59094,7 +59114,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -59222,7 +59242,7 @@
    ],
    "vlastnosti": [],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -59344,7 +59364,7 @@
     "studna"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -59847,7 +59867,7 @@
     "výhled"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -59921,7 +59941,7 @@
     "garáž"
    ],
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "historie": [
@@ -65187,7 +65207,7 @@
    "sklep": null,
    "poi": {},
    "prvni": "2026-10-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -65432,7 +65452,7 @@
     "vlak": 4375
    },
    "prvni": "2026-10-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -65497,7 +65517,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-10-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -65639,7 +65659,7 @@
     "vlak": 6653
    },
    "prvni": "2026-10-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -65726,7 +65746,7 @@
     "vlak": 518
    },
    "prvni": "2026-10-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -65813,7 +65833,7 @@
     "vlak": 3888
    },
    "prvni": "2026-10-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -65881,7 +65901,7 @@
     "vlak": 2954
    },
    "prvni": "2026-10-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -66024,7 +66044,7 @@
    "poi": {},
    "prvni": "2026-10-16",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -66076,7 +66096,7 @@
     "vlak": 3368
    },
    "prvni": "2026-10-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -66218,7 +66238,7 @@
     "vlak": 4375
    },
    "prvni": "2026-10-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -66291,8 +66311,8 @@
     "vlak": 4375
    },
    "prvni": "2026-10-16",
-   "posledni": "2026-11-25",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -66509,8 +66529,8 @@
     "vlak": 2725
    },
    "prvni": "2026-10-16",
-   "posledni": "2026-11-22",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -66541,7 +66561,7 @@
    "zdroj": "iDNES Reality",
    "url": "https://reality.idnes.cz/detail/prodej/dum/brno-smilovskeho/6a82ba117f96b116f508f41c/",
    "nazev": "Prodej domu 213 m² s pozemkem 207 m²",
-   "cena": 13990000,
+   "cena": 13500000,
    "obec": "Brno - Slatina",
    "adresa": "Šmilovského, Brno - Slatina",
    "lat": 49.183325084323,
@@ -66584,7 +66604,7 @@
     "vlak": 1573
    },
    "prvni": "2026-10-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -66592,6 +66612,10 @@
     {
      "d": "2026-10-16",
      "cena": 13990000
+    },
+    {
+     "d": "2026-11-27",
+     "cena": 13500000
     }
    ],
    "priroda": {
@@ -66657,7 +66681,7 @@
     "vlak": 6483
    },
    "prvni": "2026-10-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -66729,7 +66753,7 @@
     "vlak": 1094
    },
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -66812,7 +66836,7 @@
     "vlak": 1978
    },
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -66963,7 +66987,7 @@
     "vlak": 1887
    },
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -67032,7 +67056,7 @@
     "vlak": 6427
    },
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -67320,8 +67344,8 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-10-17",
-   "posledni": "2026-11-25",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -67395,7 +67419,7 @@
     "vlak": 2776
    },
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -67467,7 +67491,7 @@
    },
    "prvni": "2026-10-17",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -67536,7 +67560,7 @@
     "vlak": 1978
    },
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -67838,7 +67862,7 @@
     "vlak": 261
    },
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -67884,7 +67908,7 @@
    "zdroj": "iDNES Reality",
    "url": "https://reality.idnes.cz/detail/prodej/dum/ricany-nam-osvobozeni/6acf6aa00c3075b401028edc/",
    "nazev": "Prodej domu 115 m² s pozemkem 156 m²",
-   "cena": 4850000,
+   "cena": 4390000,
    "obec": "Říčany",
    "adresa": "nám. Osvobození, Říčany",
    "lat": 49.21560517675707,
@@ -67920,7 +67944,7 @@
     "vlak": 3994
    },
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -67928,6 +67952,10 @@
     {
      "d": "2026-10-17",
      "cena": 4850000
+    },
+    {
+     "d": "2026-11-27",
+     "cena": 4390000
     }
    ],
    "priroda": {
@@ -67991,7 +68019,7 @@
     "vlak": 4458
    },
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -68146,7 +68174,7 @@
     "vlak": 713
    },
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -68213,7 +68241,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -68617,7 +68645,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -68684,7 +68712,7 @@
     "vlak": 4460
    },
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -68907,7 +68935,7 @@
     "vlak": 1581
    },
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -68971,7 +68999,7 @@
    "sklep": null,
    "poi": {},
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -69117,7 +69145,7 @@
     "vlak": 1573
    },
    "prvni": "2026-10-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -69187,7 +69215,7 @@
     "vlak": 2224
    },
    "prvni": "2026-10-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -69256,7 +69284,7 @@
     "vlak": 2224
    },
    "prvni": "2026-10-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -69414,7 +69442,7 @@
     "vlak": 3474
    },
    "prvni": "2026-10-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -69495,7 +69523,7 @@
     "vlak": 3082
    },
    "prvni": "2026-10-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -69637,7 +69665,7 @@
     "vlak": 3474
    },
    "prvni": "2026-10-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -69852,7 +69880,7 @@
    },
    "prvni": "2026-10-19",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -69987,7 +70015,7 @@
     "vlak": 1567
    },
    "prvni": "2026-10-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -70125,7 +70153,7 @@
     "vlak": 3313
    },
    "prvni": "2026-10-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -70200,7 +70228,7 @@
     "vlak": 5256
    },
    "prvni": "2026-10-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -70344,7 +70372,7 @@
     "vlak": 564
    },
    "prvni": "2026-10-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -70415,7 +70443,7 @@
     "vlak": 1791
    },
    "prvni": "2026-10-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -70485,7 +70513,7 @@
     "vlak": 1145
    },
    "prvni": "2026-10-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -70561,7 +70589,7 @@
     "bus": 384
    },
    "prvni": "2026-10-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -70625,7 +70653,7 @@
     "vlak": 6767
    },
    "prvni": "2026-10-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -70923,7 +70951,7 @@
     "vlak": 5256
    },
    "prvni": "2026-10-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -71221,7 +71249,7 @@
     "vlak": 3082
    },
    "prvni": "2026-10-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -71366,7 +71394,7 @@
    "sklep": null,
    "poi": {},
    "prvni": "2026-10-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -71511,7 +71539,7 @@
     "vlak": 5321
    },
    "prvni": "2026-10-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -71581,7 +71609,7 @@
     "vlak": 1976
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -71658,7 +71686,7 @@
     "vlak": 1885
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -71807,7 +71835,7 @@
     "vlak": 1426
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -71874,7 +71902,7 @@
     "vlak": 4333
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -71941,7 +71969,7 @@
     "vlak": 4333
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -72017,7 +72045,7 @@
     "vlak": 6389
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -72149,7 +72177,7 @@
     "vlak": 5264
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -72239,7 +72267,7 @@
     "vlak": 804
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -72303,7 +72331,7 @@
     "vlak": 1364
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -72372,7 +72400,7 @@
     "vlak": 1632
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -72594,7 +72622,7 @@
     "vlak": 4333
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -72672,7 +72700,7 @@
     "vlak": 4333
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -72814,7 +72842,7 @@
     "vlak": 1791
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -72885,7 +72913,7 @@
     "vlak": 1145
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -72967,7 +72995,7 @@
     "vlak": 804
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -73027,7 +73055,7 @@
     "bus": 18
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -73088,7 +73116,7 @@
     "vlak": 1632
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -73158,7 +73186,7 @@
     "vlak": 1976
    },
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -73228,7 +73256,7 @@
    "poi": {},
    "prvni": "2026-10-21",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -73347,7 +73375,7 @@
    "sklep": null,
    "poi": {},
    "prvni": "2026-10-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -73844,7 +73872,7 @@
     "vlak": 4333
    },
    "prvni": "2026-10-22",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -73911,7 +73939,7 @@
     "vlak": 712
    },
    "prvni": "2026-10-22",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -73981,7 +74009,7 @@
     "vlak": 2244
    },
    "prvni": "2026-10-22",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -74051,7 +74079,7 @@
     "vlak": 1343
    },
    "prvni": "2026-10-22",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -74262,7 +74290,7 @@
     "vlak": 3327
    },
    "prvni": "2026-10-22",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -74333,7 +74361,7 @@
     "vlak": 7085
    },
    "prvni": "2026-10-22",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -74482,7 +74510,7 @@
     "vlak": 3327
    },
    "prvni": "2026-10-22",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -74691,7 +74719,7 @@
     "vlak": 6427
    },
    "prvni": "2026-10-22",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -74762,7 +74790,7 @@
     "vlak": 6389
    },
    "prvni": "2026-10-22",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -74889,7 +74917,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-10-22",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -75179,7 +75207,7 @@
     "vlak": 1320
    },
    "prvni": "2026-10-22",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -75478,7 +75506,7 @@
     "vlak": 740
    },
    "prvni": "2026-10-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -75548,7 +75576,7 @@
     "vlak": 6347
    },
    "prvni": "2026-10-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -75611,7 +75639,7 @@
     "vlak": 514
    },
    "prvni": "2026-10-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -76105,7 +76133,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-10-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -76154,7 +76182,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-10-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -76307,7 +76335,7 @@
     "vlak": 1496
    },
    "prvni": "2026-10-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -76587,7 +76615,7 @@
     "vlak": 713
    },
    "prvni": "2026-10-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -76954,7 +76982,7 @@
     "vlak": 796
    },
    "prvni": "2026-10-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -77024,7 +77052,7 @@
     "vlak": 1079
    },
    "prvni": "2026-10-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -77103,7 +77131,7 @@
     "vlak": 1079
    },
    "prvni": "2026-10-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -77180,7 +77208,7 @@
     "vlak": 3272
    },
    "prvni": "2026-10-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -77251,7 +77279,7 @@
     "vlak": 796
    },
    "prvni": "2026-10-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -77325,7 +77353,7 @@
     "vlak": 5598
    },
    "prvni": "2026-10-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -77407,7 +77435,7 @@
     "vlak": 3272
    },
    "prvni": "2026-10-25",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -77476,7 +77504,7 @@
     "vlak": 3736
    },
    "prvni": "2026-10-25",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -77615,7 +77643,7 @@
     "vlak": 1454
    },
    "prvni": "2026-10-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -77686,7 +77714,7 @@
     "vlak": 623
    },
    "prvni": "2026-10-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -77843,7 +77871,7 @@
     "vlak": 880
    },
    "prvni": "2026-10-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -77987,7 +78015,7 @@
     "vlak": 623
    },
    "prvni": "2026-10-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -78123,7 +78151,7 @@
     "vlak": 945
    },
    "prvni": "2026-10-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -78194,7 +78222,7 @@
     "vlak": 6063
    },
    "prvni": "2026-10-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -78267,7 +78295,7 @@
     "vlak": 5577
    },
    "prvni": "2026-10-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -78406,7 +78434,7 @@
     "vlak": 1105
    },
    "prvni": "2026-10-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -78480,7 +78508,7 @@
     "vlak": 1454
    },
    "prvni": "2026-10-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -78622,7 +78650,7 @@
     "vlak": 822
    },
    "prvni": "2026-10-27",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -78764,7 +78792,7 @@
     "vlak": 4228
    },
    "prvni": "2026-10-27",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -78832,7 +78860,7 @@
     "vlak": 3993
    },
    "prvni": "2026-10-27",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -79051,7 +79079,7 @@
     "vlak": 3058
    },
    "prvni": "2026-10-27",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -79135,7 +79163,7 @@
     "vlak": 258
    },
    "prvni": "2026-10-27",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -79204,7 +79232,7 @@
     "vlak": 822
    },
    "prvni": "2026-10-27",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -79347,7 +79375,7 @@
     "vlak": 880
    },
    "prvni": "2026-10-27",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -79572,7 +79600,7 @@
     "vlak": 3788
    },
    "prvni": "2026-10-27",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -79717,7 +79745,7 @@
     "vlak": 276
    },
    "prvni": "2026-10-27",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -79787,7 +79815,7 @@
     "vlak": 286
    },
    "prvni": "2026-10-28",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -79855,7 +79883,7 @@
     "vlak": 3088
    },
    "prvni": "2026-10-28",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -79927,7 +79955,7 @@
     "vlak": 4228
    },
    "prvni": "2026-10-28",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -80140,7 +80168,7 @@
     "vlak": 3058
    },
    "prvni": "2026-10-28",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -80220,7 +80248,7 @@
     "vlak": 1385
    },
    "prvni": "2026-10-28",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -80379,7 +80407,7 @@
     "vlak": 3594
    },
    "prvni": "2026-10-29",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -80451,7 +80479,7 @@
     "vlak": 3252
    },
    "prvni": "2026-10-29",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -80530,7 +80558,7 @@
     "vlak": 1385
    },
    "prvni": "2026-10-29",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -80686,7 +80714,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-10-29",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -80742,7 +80770,7 @@
     "vlak": 3594
    },
    "prvni": "2026-10-29",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -80815,7 +80843,7 @@
     "vlak": 3252
    },
    "prvni": "2026-10-29",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -80897,7 +80925,7 @@
     "vlak": 3427
    },
    "prvni": "2026-10-29",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -80971,7 +80999,7 @@
     "vlak": 3815
    },
    "prvni": "2026-10-29",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -81124,7 +81152,7 @@
     "vlak": 514
    },
    "prvni": "2026-10-29",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -81206,7 +81234,7 @@
     "vlak": 190
    },
    "prvni": "2026-10-29",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -81334,7 +81362,7 @@
     "vlak": 1385
    },
    "prvni": "2026-10-29",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -81413,7 +81441,7 @@
     "vlak": 286
    },
    "prvni": "2026-10-30",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -81481,7 +81509,7 @@
     "vlak": 6063
    },
    "prvni": "2026-10-30",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -81551,7 +81579,7 @@
     "vlak": 3540
    },
    "prvni": "2026-10-30",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -81626,7 +81654,7 @@
     "vlak": 1432
    },
    "prvni": "2026-10-30",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -81696,7 +81724,7 @@
     "vlak": 276
    },
    "prvni": "2026-10-30",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -81759,7 +81787,7 @@
    "sklep": null,
    "poi": {},
    "prvni": "2026-10-30",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -82030,7 +82058,7 @@
     "vlak": 3815
    },
    "prvni": "2026-10-31",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -82110,7 +82138,7 @@
     "vlak": 1903
    },
    "prvni": "2026-10-31",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -82250,7 +82278,7 @@
     "vlak": 3954
    },
    "prvni": "2026-10-31",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -82322,7 +82350,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-10-31",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -82339,7 +82367,7 @@
    "zdroj": "iDNES Reality",
    "url": "https://reality.idnes.cz/detail/prodej/dum/zbysov-druzstevni/6ae3632739c267c1840a6399/",
    "nazev": "Prodej domu 52 m² s pozemkem 454 m²",
-   "cena": 5290000,
+   "cena": 4790000,
    "obec": "Zbýšov",
    "adresa": "Družstevní, Zbýšov",
    "lat": 49.1542558307,
@@ -82377,14 +82405,18 @@
     "vlak": 3533
    },
    "prvni": "2026-10-31",
-   "posledni": "2026-11-10",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
     {
      "d": "2026-10-31",
      "cena": 5290000
+    },
+    {
+     "d": "2026-11-27",
+     "cena": 4790000
     }
    ],
    "priroda": {
@@ -82449,7 +82481,7 @@
     "vlak": 1432
    },
    "prvni": "2026-10-31",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -82514,7 +82546,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-10-31",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -82570,7 +82602,7 @@
     "vlak": 1903
    },
    "prvni": "2026-10-31",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -82709,7 +82741,7 @@
     "vlak": 3282
    },
    "prvni": "2026-11-01",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -82789,7 +82821,7 @@
     "vlak": 564
    },
    "prvni": "2026-11-02",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -82862,7 +82894,7 @@
     "vlak": 2446
    },
    "prvni": "2026-11-02",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -82922,7 +82954,7 @@
     "vlak": 5525
    },
    "prvni": "2026-11-02",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -82992,7 +83024,7 @@
     "vlak": 663
    },
    "prvni": "2026-11-02",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -83136,7 +83168,7 @@
    },
    "prvni": "2026-11-02",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -83218,7 +83250,7 @@
     "vlak": 2446
    },
    "prvni": "2026-11-02",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -83279,7 +83311,7 @@
     "vlak": 692
    },
    "prvni": "2026-11-02",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -83360,7 +83392,7 @@
     "vlak": 663
    },
    "prvni": "2026-11-02",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -83573,7 +83605,7 @@
    },
    "prvni": "2026-11-02",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -83645,7 +83677,7 @@
     "vlak": 5577
    },
    "prvni": "2026-11-02",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -83924,7 +83956,7 @@
     "vlak": 5321
    },
    "prvni": "2026-11-03",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -84062,7 +84094,7 @@
    },
    "prvni": "2026-11-03",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -84125,7 +84157,7 @@
     "vlak": 6032
    },
    "prvni": "2026-11-03",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -84265,7 +84297,7 @@
     "vlak": 1885
    },
    "prvni": "2026-11-03",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -84415,7 +84447,7 @@
     "vlak": 1885
    },
    "prvni": "2026-11-03",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -84549,7 +84581,7 @@
    "poi": {},
    "prvni": "2026-11-03",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -84618,7 +84650,7 @@
     "vlak": 4848
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -84772,7 +84804,7 @@
     "vlak": 6349
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -84837,7 +84869,7 @@
     "vlak": 6349
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -84902,7 +84934,7 @@
     "vlak": 1006
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -84976,7 +85008,7 @@
     "vlak": 2139
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -85046,7 +85078,7 @@
     "vlak": 3708
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -85116,7 +85148,7 @@
     "vlak": 355
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -85189,7 +85221,7 @@
     "vlak": 3533
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -85263,7 +85295,7 @@
    },
    "prvni": "2026-11-04",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -85335,7 +85367,7 @@
     "vlak": 739
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -85405,7 +85437,7 @@
     "vlak": 4273
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -85553,7 +85585,7 @@
    "sklep": null,
    "poi": {},
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -85603,7 +85635,7 @@
    "sklep": null,
    "poi": {},
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -85661,7 +85693,7 @@
     "vlak": 3533
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -85733,7 +85765,7 @@
     "vlak": 1006
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -85807,8 +85839,8 @@
     "vlak": 6032
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-25",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -85878,7 +85910,7 @@
     "vlak": 945
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -85949,7 +85981,7 @@
     "vlak": 5321
    },
    "prvni": "2026-11-04",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -86023,7 +86055,7 @@
     "vlak": 1055
    },
    "prvni": "2026-11-05",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -86093,7 +86125,7 @@
     "vlak": 2677
    },
    "prvni": "2026-11-05",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -86166,7 +86198,7 @@
     "vlak": 1498
    },
    "prvni": "2026-11-05",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -86240,7 +86272,7 @@
     "vlak": 1360
    },
    "prvni": "2026-11-05",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -86763,7 +86795,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-11-05",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -86818,7 +86850,7 @@
     "vlak": 2677
    },
    "prvni": "2026-11-05",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -86884,7 +86916,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-11-05",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -86945,7 +86977,7 @@
    },
    "prvni": "2026-11-05",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -87020,7 +87052,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-11-05",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -87097,7 +87129,7 @@
     "vlak": 6156
    },
    "prvni": "2026-11-05",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -87293,7 +87325,7 @@
     "vlak": 2749
    },
    "prvni": "2026-11-06",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -87501,7 +87533,7 @@
     "vlak": 3107
    },
    "prvni": "2026-11-06",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -87574,7 +87606,7 @@
     "vlak": 2255
    },
    "prvni": "2026-11-06",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -87645,7 +87677,7 @@
     "vlak": 3474
    },
    "prvni": "2026-11-06",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -87726,7 +87758,7 @@
     "vlak": 2749
    },
    "prvni": "2026-11-06",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -87787,7 +87819,7 @@
    "sklep": null,
    "poi": {},
    "prvni": "2026-11-06",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -87850,7 +87882,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-11-06",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -87968,7 +88000,7 @@
     "vlak": 3652
    },
    "prvni": "2026-11-07",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -88039,7 +88071,7 @@
     "vlak": 2855
    },
    "prvni": "2026-11-07",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -88181,7 +88213,7 @@
     "vlak": 3708
    },
    "prvni": "2026-11-07",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -88401,7 +88433,7 @@
     "vlak": 3154
    },
    "prvni": "2026-11-08",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -88541,7 +88573,7 @@
     "vlak": 3154
    },
    "prvni": "2026-11-08",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -88615,7 +88647,7 @@
     "vlak": 258
    },
    "prvni": "2026-11-08",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -88681,7 +88713,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-11-08",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -88902,7 +88934,7 @@
     "vlak": 4415
    },
    "prvni": "2026-11-09",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -89042,7 +89074,7 @@
     "vlak": 3652
    },
    "prvni": "2026-11-09",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -89124,7 +89156,7 @@
     "vlak": 2855
    },
    "prvni": "2026-11-09",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -89207,7 +89239,7 @@
    },
    "prvni": "2026-11-09",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -89348,7 +89380,7 @@
     "vlak": 5459
    },
    "prvni": "2026-11-10",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -89428,7 +89460,7 @@
     "vlak": 1092
    },
    "prvni": "2026-11-10",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -89498,7 +89530,7 @@
     "vlak": 4023
    },
    "prvni": "2026-11-10",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -89705,7 +89737,7 @@
     "vlak": 138
    },
    "prvni": "2026-11-10",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -89844,7 +89876,7 @@
     "vlak": 1130
    },
    "prvni": "2026-11-10",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -89915,7 +89947,7 @@
     "vlak": 5459
    },
    "prvni": "2026-11-10",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -89988,7 +90020,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-11-10",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -90045,7 +90077,7 @@
     "vlak": 1976
    },
    "prvni": "2026-11-10",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -90187,7 +90219,7 @@
     "vlak": 425
    },
    "prvni": "2026-11-11",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -90257,7 +90289,7 @@
     "vlak": 512
    },
    "prvni": "2026-11-11",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -90460,7 +90492,7 @@
    "sklep": null,
    "poi": {},
    "prvni": "2026-11-11",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -90659,7 +90691,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-11-11",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -90728,7 +90760,7 @@
     "vlak": 4415
    },
    "prvni": "2026-11-11",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -90799,8 +90831,8 @@
     "vlak": 512
    },
    "prvni": "2026-11-11",
-   "posledni": "2026-11-23",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -90943,7 +90975,7 @@
     "vlak": 3539
    },
    "prvni": "2026-11-12",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -91016,7 +91048,7 @@
     "vlak": 740
    },
    "prvni": "2026-11-12",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -91087,7 +91119,7 @@
     "vlak": 3344
    },
    "prvni": "2026-11-12",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -91169,7 +91201,7 @@
     "vlak": 3314
    },
    "prvni": "2026-11-12",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -91249,7 +91281,7 @@
     "vlak": 3075
    },
    "prvni": "2026-11-12",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -91329,7 +91361,7 @@
     "vlak": 4356
    },
    "prvni": "2026-11-12",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -91554,7 +91586,7 @@
     "vlak": 3344
    },
    "prvni": "2026-11-12",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -91628,7 +91660,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-11-12",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -91686,7 +91718,7 @@
     "vlak": 3314
    },
    "prvni": "2026-11-12",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -91769,8 +91801,8 @@
     "vlak": 740
    },
    "prvni": "2026-11-12",
-   "posledni": "2026-11-20",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -91842,7 +91874,7 @@
    },
    "prvni": "2026-11-12",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -91909,7 +91941,7 @@
     "vlak": 1465
    },
    "prvni": "2026-11-12",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -91977,7 +92009,7 @@
     "vlak": 1465
    },
    "prvni": "2026-11-12",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -92049,7 +92081,7 @@
     "vlak": 4997
    },
    "prvni": "2026-11-13",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -92120,7 +92152,7 @@
     "vlak": 4273
    },
    "prvni": "2026-11-13",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -92191,7 +92223,7 @@
     "vlak": 4273
    },
    "prvni": "2026-11-13",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -92261,7 +92293,7 @@
     "vlak": 1105
    },
    "prvni": "2026-11-13",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -92331,7 +92363,7 @@
     "vlak": 2734
    },
    "prvni": "2026-11-13",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -92403,7 +92435,7 @@
     "vlak": 2380
    },
    "prvni": "2026-11-13",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -92562,7 +92594,7 @@
     "vlak": 6679
    },
    "prvni": "2026-11-14",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -92631,7 +92663,7 @@
     "vlak": 2136
    },
    "prvni": "2026-11-14",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -92703,7 +92735,7 @@
     "vlak": 8303
    },
    "prvni": "2026-11-14",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -92774,8 +92806,8 @@
     "vlak": 962
    },
    "prvni": "2026-11-14",
-   "posledni": "2026-11-24",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -92843,7 +92875,7 @@
     "vlak": 2629
    },
    "prvni": "2026-11-14",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -92980,7 +93012,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-11-14",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -93050,7 +93082,7 @@
     "vlak": 4273
    },
    "prvni": "2026-11-14",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -93121,7 +93153,7 @@
     "vlak": 4273
    },
    "prvni": "2026-11-14",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -93196,7 +93228,7 @@
    "sklep": null,
    "poi": {},
    "prvni": "2026-11-14",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -93255,7 +93287,7 @@
    },
    "prvni": "2026-11-14",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -93395,7 +93427,7 @@
     "vlak": 2490
    },
    "prvni": "2026-11-14",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -93465,7 +93497,7 @@
     "vlak": 1976
    },
    "prvni": "2026-11-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -93610,7 +93642,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-11-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -93675,7 +93707,7 @@
    "sklep": true,
    "poi": {},
    "prvni": "2026-11-15",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -93738,7 +93770,7 @@
     "vlak": 354
    },
    "prvni": "2026-11-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -93820,7 +93852,7 @@
     "vlak": 6063
    },
    "prvni": "2026-11-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -93891,7 +93923,7 @@
     "vlak": 190
    },
    "prvni": "2026-11-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -93961,7 +93993,7 @@
     "vlak": 6178
    },
    "prvni": "2026-11-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -94038,7 +94070,7 @@
     "vlak": 2099
    },
    "prvni": "2026-11-16",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -94111,7 +94143,7 @@
     "vlak": 1850
    },
    "prvni": "2026-11-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -94260,7 +94292,7 @@
     "vlak": 477
    },
    "prvni": "2026-11-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -94341,7 +94373,7 @@
     "vlak": 1030
    },
    "prvni": "2026-11-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -94416,7 +94448,7 @@
    "sklep": null,
    "poi": {},
    "prvni": "2026-11-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -94474,7 +94506,7 @@
     "vlak": 1850
    },
    "prvni": "2026-11-17",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -94543,7 +94575,7 @@
    },
    "prvni": "2026-11-17",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -94613,7 +94645,7 @@
     "vlak": 2413
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -94682,7 +94714,7 @@
     "vlak": 4587
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -94753,7 +94785,7 @@
     "vlak": 4297
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -94820,7 +94852,7 @@
     "vlak": 740
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -94891,7 +94923,7 @@
     "vlak": 2236
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -94973,7 +95005,7 @@
     "vlak": 758
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -95042,7 +95074,7 @@
     "vlak": 4587
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -95123,7 +95155,7 @@
     "vlak": 6468
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -95194,7 +95226,7 @@
     "vlak": 4297
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -95338,7 +95370,7 @@
     "vlak": 2236
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -95419,7 +95451,7 @@
     "vlak": 2677
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -95491,8 +95523,8 @@
     "vlak": 6063
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-24",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -95563,7 +95595,7 @@
     "vlak": 190
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -95631,7 +95663,7 @@
     "vlak": 712
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -95696,7 +95728,7 @@
    "sklep": null,
    "poi": {},
    "prvni": "2026-11-18",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -95752,8 +95784,8 @@
     "vlak": 2413
    },
    "prvni": "2026-11-18",
-   "posledni": "2026-11-20",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -95823,7 +95855,7 @@
     "vlak": 889
    },
    "prvni": "2026-11-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -95891,7 +95923,7 @@
     "vlak": 3514
    },
    "prvni": "2026-11-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -95961,7 +95993,7 @@
     "vlak": 671
    },
    "prvni": "2026-11-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -96032,7 +96064,7 @@
     "vlak": 824
    },
    "prvni": "2026-11-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -96098,7 +96130,7 @@
     "bus": 130
    },
    "prvni": "2026-11-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -96166,7 +96198,7 @@
     "vlak": 5006
    },
    "prvni": "2026-11-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -96236,7 +96268,7 @@
     "vlak": 5006
    },
    "prvni": "2026-11-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -96305,7 +96337,7 @@
     "vlak": 564
    },
    "prvni": "2026-11-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -96386,7 +96418,7 @@
     "vlak": 889
    },
    "prvni": "2026-11-19",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -96454,7 +96486,7 @@
     "vlak": 3898
    },
    "prvni": "2026-11-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -96521,7 +96553,7 @@
     "vlak": 480
    },
    "prvni": "2026-11-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -96592,7 +96624,7 @@
     "vlak": 1242
    },
    "prvni": "2026-11-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -96663,7 +96695,7 @@
     "vlak": 471
    },
    "prvni": "2026-11-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -96798,7 +96830,7 @@
     "vlak": 480
    },
    "prvni": "2026-11-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -96868,7 +96900,7 @@
     "vlak": 671
    },
    "prvni": "2026-11-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -96939,7 +96971,7 @@
     "vlak": 4997
    },
    "prvni": "2026-11-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -97010,7 +97042,7 @@
     "vlak": 4997
    },
    "prvni": "2026-11-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -97077,7 +97109,7 @@
    "sklep": null,
    "poi": {},
    "prvni": "2026-11-20",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -97274,8 +97306,8 @@
     "vlak": 901
    },
    "prvni": "2026-11-20",
-   "posledni": "2026-11-21",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -97344,7 +97376,7 @@
     "vlak": 670
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -97413,7 +97445,7 @@
     "vlak": 3652
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -97482,7 +97514,7 @@
     "vlak": 1535
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -97551,7 +97583,7 @@
     "vlak": 1535
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -97620,7 +97652,7 @@
     "vlak": 1020
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -97690,7 +97722,7 @@
     "vlak": 663
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -97759,7 +97791,7 @@
     "vlak": 2490
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -97828,7 +97860,7 @@
     "vlak": 670
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -97896,7 +97928,7 @@
     "vlak": 1020
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -97966,7 +97998,7 @@
     "vlak": 1535
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -98036,7 +98068,7 @@
     "vlak": 1535
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -98104,7 +98136,7 @@
     "vlak": 6032
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -98176,7 +98208,7 @@
     "vlak": 471
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -98246,8 +98278,8 @@
     "vlak": 2490
    },
    "prvni": "2026-11-21",
-   "posledni": "2026-11-22",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -98316,7 +98348,7 @@
     "vlak": 708
    },
    "prvni": "2026-11-22",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -98385,7 +98417,7 @@
     "vlak": 708
    },
    "prvni": "2026-11-22",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -98456,7 +98488,7 @@
     "vlak": 1068
    },
    "prvni": "2026-11-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -98525,8 +98557,8 @@
     "vlak": 3626
    },
    "prvni": "2026-11-23",
-   "posledni": "2026-11-23",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -98605,7 +98637,7 @@
     "vlak": 4082
    },
    "prvni": "2026-11-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -98676,7 +98708,7 @@
     "vlak": 4203
    },
    "prvni": "2026-11-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -98759,7 +98791,7 @@
     "vlak": 2076
    },
    "prvni": "2026-11-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -98911,7 +98943,7 @@
     "vlak": 663
    },
    "prvni": "2026-11-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99045,7 +99077,7 @@
     "vlak": 2136
    },
    "prvni": "2026-11-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99117,7 +99149,7 @@
     "vlak": 962
    },
    "prvni": "2026-11-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99189,7 +99221,7 @@
     "vlak": 3533
    },
    "prvni": "2026-11-23",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99270,7 +99302,7 @@
     "vlak": 1374
    },
    "prvni": "2026-11-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99339,7 +99371,7 @@
     "vlak": 4538
    },
    "prvni": "2026-11-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99410,7 +99442,7 @@
     "vlak": 6485
    },
    "prvni": "2026-11-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99483,7 +99515,7 @@
     "vlak": 3626
    },
    "prvni": "2026-11-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99552,7 +99584,7 @@
     "vlak": 3626
    },
    "prvni": "2026-11-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99631,7 +99663,7 @@
     "vlak": 4082
    },
    "prvni": "2026-11-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99702,7 +99734,7 @@
     "vlak": 4203
    },
    "prvni": "2026-11-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99784,7 +99816,7 @@
     "vlak": 2076
    },
    "prvni": "2026-11-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99854,7 +99886,7 @@
     "vlak": 1374
    },
    "prvni": "2026-11-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99924,7 +99956,7 @@
     "vlak": 4375
    },
    "prvni": "2026-11-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -99995,7 +100027,7 @@
     "vlak": 3708
    },
    "prvni": "2026-11-24",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -100148,7 +100180,7 @@
     "vlak": 190
    },
    "prvni": "2026-11-25",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -100218,7 +100250,7 @@
     "vlak": 477
    },
    "prvni": "2026-11-25",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -100290,7 +100322,7 @@
    },
    "prvni": "2026-11-25",
    "posledni": "2026-11-26",
-   "aktivni": true,
+   "aktivni": false,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -100357,8 +100389,8 @@
     "vlak": 3272
    },
    "prvni": "2026-11-25",
-   "posledni": "2026-11-25",
-   "aktivni": false,
+   "posledni": "2026-11-27",
+   "aktivni": true,
    "_detail": true,
    "_dv": 2,
    "historie": [
@@ -100428,7 +100460,7 @@
     "vlak": 6485
    },
    "prvni": "2026-11-25",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -100501,7 +100533,7 @@
     "vlak": 425
    },
    "prvni": "2026-11-25",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -100573,7 +100605,7 @@
     "vlak": 712
    },
    "prvni": "2026-11-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -100644,7 +100676,7 @@
     "vlak": 663
    },
    "prvni": "2026-11-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -100717,7 +100749,7 @@
     "vlak": 3474
    },
    "prvni": "2026-11-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -100798,7 +100830,7 @@
     "vlak": 712
    },
    "prvni": "2026-11-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -100865,7 +100897,7 @@
     "vlak": 281
    },
    "prvni": "2026-11-26",
-   "posledni": "2026-11-26",
+   "posledni": "2026-11-27",
    "aktivni": true,
    "_detail": true,
    "_dv": 2,
@@ -100891,30 +100923,407 @@
    },
    "poi_odhad": true,
    "dum": "sr-4222423116"
+  },
+  "id-6b0988f0b7fdc79ba401fee4": {
+   "id": "id-6b0988f0b7fdc79ba401fee4",
+   "zdroj": "iDNES Reality",
+   "url": "https://reality.idnes.cz/detail/prodej/dum/jinacovice/6b0988f0b7fdc79ba401fee4/",
+   "nazev": "Prodej domu 78 m² s pozemkem 315 m²",
+   "cena": 8450000,
+   "obec": "Jinačovice",
+   "adresa": "Jinačovice",
+   "lat": 49.2678028547,
+   "lon": 16.5294849755,
+   "presnost": "adresa",
+   "pokoje": 3,
+   "dispozice": "3+1",
+   "uzitna": 78,
+   "pozemek": 315,
+   "typ": "",
+   "poloha": "řadový",
+   "stavba": "cihla",
+   "stav": "",
+   "penb": "G",
+   "rk": "I.E.T. Reality, s.r.o.",
+   "popis": "Prodej rodinného domu 3+1, 78 m², pozemek 315 m², Jinačovice Nabízíme k prodeji rodinný dům o celkové užitné ploše přibližně 78 m², pozemky mají celkovou výměru 315 m². Tvoří je parcela o výměře 217 m², evidovaná jako zastavěná plocha a nádvoří a předzahrádka o výměře 98 m². Dům prošel částečnou…",
+   "fotky": [
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/f/a/7/e098d2a13a3a8ea7545079e5e8468.jpg",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/2/0/4/2197b4150f627942a9f3ccfd89194.jpg"
+   ],
+   "vlastnosti": [
+    "krb"
+   ],
+   "voda": "",
+   "kanalizace": "veřejná kanalizace",
+   "garaz": true,
+   "sklep": null,
+   "poi": {
+    "skolka": 146,
+    "skola": 2130,
+    "obchod": 60,
+    "lekar": 2598,
+    "bus": 143,
+    "vlak": 3282
+   },
+   "prvni": "2026-11-27",
+   "posledni": "2026-11-27",
+   "aktivni": true,
+   "_detail": true,
+   "_dv": 2,
+   "historie": [
+    {
+     "d": "2026-11-27",
+     "cena": 8450000
+    }
+   ],
+   "priroda": {
+    "les_m": 221,
+    "les_1km": 32,
+    "les_2km": 55,
+    "vyska": 308,
+    "prevyseni": 173,
+    "clenitost": 42
+   },
+   "_geo": "49.2678,16.5295",
+   "vzdusne": {
+    "rosice": 14.0,
+    "strelice": 13.0,
+    "padochov": 19.7
+   },
+   "poi_odhad": true,
+   "dum": "id-6b0988f0b7fdc79ba401fee4"
+  },
+  "id-6b07f6ee10f06f1a740aa437": {
+   "id": "id-6b07f6ee10f06f1a740aa437",
+   "zdroj": "iDNES Reality",
+   "url": "https://reality.idnes.cz/detail/prodej/dum/chudcice/6b07f6ee10f06f1a740aa437/",
+   "nazev": "Prodej domu 249 m² s pozemkem 4 242 m²",
+   "cena": 12440000,
+   "obec": "Chudčice",
+   "adresa": "Chudčice",
+   "lat": 49.29269046,
+   "lon": 16.45204499,
+   "presnost": "adresa",
+   "pokoje": 4,
+   "dispozice": "4+1",
+   "uzitna": 249,
+   "pozemek": 4242,
+   "typ": "bungalov",
+   "poloha": "samostatný",
+   "stavba": "cihla",
+   "stav": "po rekonstrukci",
+   "penb": "G",
+   "rk": "OPENREALITY, realitní kancelář, s.r.o.",
+   "popis": "Prodej rodinného domu se dvěma bytovými jednotkami a rozsáhlými pozemky v obci Chudčice u Brna\nNabízíme k prodeji prostornou nemovitost ve vyhledávané lokalitě obce Chudčice, pouhých 15 km od Brna a v těsné blízkosti Brněnské přehrady. Tato lokalita kombinuje pohodlí dostupnosti města s klidem a krásou přírody. Objekt je určen pro rodinné bydlení, vícegenerační soužití anebo podnikání s možností pronájmu.\nSoučástí prodeje jsou parcely o ploše:\n- zastavěná plocha a nádvoří o ploše 885 m²\n- zahrada o ploše 949 m²\n- ostatní plocha 152 m²\n- orná půda 2256 m²\nRodinný dům:\nDům o celkové podlahové ploše 249 m² je zděný, podsklepený a nabízí dvě samostatné bytové jednotky 2+1 a 4+1, což umožňuje flexibilní využití prostoru například pro kombinaci bydlení a pronájmu anebo jako vícegenerační bydlení.\nVybavení a technický stav domu:\nnová střešní krytina (tašky)\nplastová okna pro lepší tepelnou izolaci\nmoderní topení tepelným čerpadlem\npodlahy dlažba\npřipojení na obecní kanalizaci a vlastní studna\ndům není zateplený, což dává novému majiteli možnost realizovat exteriérové úpravy podle vlastního vkusu\nStavba nabízí prostorné a světlé místnosti, které poskytují komfortní bydlení i pro početnější rodinu. Díky dvěma samostatným bytovým jednotkám je možné také flexibilně využít část nemovitosti pro hosty nebo k pronájmu. Na dům navazuje zděná stodola, která byla zbudovaná jako komerční prostor - auto/pneu servis.\nPozemky:\nSoučástí nabídky je slunná parcela o rozloze 1 000 m, vhodná pro další stavební nebo zahradní úpravy. Na pozemku stojí menší technická stavba. Inženýrské sítě voda a kanalizace jsou dostupné na hranici pozemku. Pozemek má vlastní příjezdovou cestu, což zajišťuje pohodlný přístup a soukromí.\nLokalita a občanská vybavenost:\nObec Chudčice nabízí kompletní občanskou vybavenost:\nškolka a základní škola\nobchod s potravinami\nkulturní dům a restaurace\nmožnost sportovního a volnočasového vyžití v přírodě\nDopravní dostupnost je výborná:\ndo Brna cca 1015 minut autem\ndo Veverské Bítýšky 1 minuta\ndobré spojení MHD do Brna\nVyužití nemovitosti\nTato nemovitost je vhodná:\npro rodinné bydlení v klidné lokalitě\njako vícegenerační bydlení\npro kombinaci bydlení a pronájmu\nk podnikání\njako investiční záměr s možností modernizace a rozšíření\nNemovitost nabízí unikátní kombinaci prostorného domu, slunného pozemku a klidné lokality blízko Brna, ideální pro ty, kteří hledají bydlení v harmonii s přírodou a zároveň s jednoduchou dostupnosti městské infrastruktury.",
+   "fotky": [
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/3/a/0/e73d45e63d1c10b443eb4e91af9c5.webp",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/9/e/3/d500222f5dc1292d2df89fba1267e.jpg",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/e/1/f/cd7f9cf2b3066749c4b9611299d1b.jpg"
+   ],
+   "vlastnosti": [
+    "sklep",
+    "studna",
+    "tepelné čerpadlo",
+    "klidná lokalita"
+   ],
+   "voda": "studna",
+   "kanalizace": "veřejná kanalizace",
+   "garaz": null,
+   "sklep": true,
+   "poi": {
+    "skolka": 111,
+    "skola": 111,
+    "obchod": 2098,
+    "lekar": 1917,
+    "bus": 89,
+    "vlak": 3474
+   },
+   "prvni": "2026-11-27",
+   "posledni": "2026-11-27",
+   "aktivni": true,
+   "_detail": true,
+   "_dv": 2,
+   "historie": [
+    {
+     "d": "2026-11-27",
+     "cena": 12440000
+    }
+   ],
+   "priroda": {
+    "les_m": 519,
+    "les_1km": 17,
+    "les_2km": 40,
+    "vyska": 265,
+    "prevyseni": 168,
+    "clenitost": 34
+   },
+   "_geo": "49.2927,16.4520",
+   "vzdusne": {
+    "rosice": 13.1,
+    "strelice": 16.0,
+    "padochov": 18.9
+   },
+   "dojezd": {
+    "rosice": 19,
+    "strelice": 23,
+    "padochov": 28,
+    "brno": 24,
+    "hranice": 96,
+    "d1": 13,
+    "d1_exit": "178 Ostrovačice",
+    "_v": 2
+   },
+   "poi_odhad": true,
+   "dum": "sr-2188578892"
+  },
+  "id-6b05b6f668d7941dff08975c": {
+   "id": "id-6b05b6f668d7941dff08975c",
+   "zdroj": "iDNES Reality",
+   "url": "https://reality.idnes.cz/detail/prodej/dum/zbysov-ctvrt-anenska/6b05b6f668d7941dff08975c/",
+   "nazev": "Prodej domu 144 m² s pozemkem 1 296 m²",
+   "cena": 8500000,
+   "obec": "Zbýšov",
+   "adresa": "čtvrť Anenská, Zbýšov",
+   "lat": 49.148288,
+   "lon": 16.3503256,
+   "presnost": "adresa",
+   "pokoje": 5,
+   "dispozice": "5+1",
+   "uzitna": 144,
+   "pozemek": 1296,
+   "typ": "",
+   "poloha": "samostatný",
+   "stavba": "cihla",
+   "stav": "před rekonstrukcí",
+   "penb": "G",
+   "rk": "Bezrealitky s.r.o.",
+   "popis": "Prodej domu 144 m², pozemek 1.296 m²\nJako přímý majitel nabízím k prodeji cihlový rodinný dům o dispozici 5+1 a ploše 144 m² (bez suterénu). Dům stojí na prostorném pozemku o celkové výměře 1 296 m², jehož součástí je i krásná zahrada se vzrostlými ovocnými stromy. Pomezek je součástí klidné čtvrti Anenská, na okraji města. V docházkové vzdálenosti se plánuje výstavba obchodního domu Penny.\nDům nabízí dostatek prostoru i třeba pro početnější rodinu s možností upravit si dispozici podle vlastních představ. Objekt je před rekonstrukcí, což budoucímu majiteli dává příležitost vytvořit si bydlení přesně podle svého vkusu a požadavků.\nSoučástí nabídkové ceny je i zhotovení architektonické studie (návrhu stavby) nové podoby domu, a to na míru potřebám nového majitele.\nDům se prodává nevybavený, kromě suterénu téměř vyklizený. Součástí nemovitosti je také prostorný sklep o výměře 80 m², který poskytuje bohaté zázemí pro technické vybavení, skladování, dílnu či jiné využití.\nNa pozemek je příjezd a možnost parkování vedle domu nebo ve dvoře. Nachází se zde také starší zděná garáž.\nObjekt je přípojkami napojen na kanalizaci, vodovod, plyn a NN.\nDům je zajímavou volbou pro zájemce, kteří hledají prostornou cihlovou nemovitost k rekonstrukci a chtějí si své budoucí bydlení vytvořit od základu.\nV případě zájmu o bližší informace nebo sjednání prohlídky mě kontaktujte prostřednictvím zpráv na komunikační platformě. Tato nemovitost je určena výhradně přímým zájemcům o koupi. Na inzerát můžete také reagovat přímo na webu Bezrealitky.",
+   "fotky": [
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/9/c/1/c06f05c3f7ecd1f7ff2359adbcdc5.webp",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/8/9/9/cb3bcd3bf5c6deba68ec4ce073a4b.jpg",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/6/f/b/6c564dc4fe2990144bba785c4c47d.jpg"
+   ],
+   "vlastnosti": [
+    "garáž",
+    "sklep",
+    "k rekonstrukci"
+   ],
+   "voda": "vodovod",
+   "kanalizace": "veřejná kanalizace",
+   "garaz": true,
+   "sklep": true,
+   "poi": {
+    "skolka": 784,
+    "skola": 215,
+    "obchod": 202,
+    "lekar": 880,
+    "bus": 232,
+    "vlak": 3533
+   },
+   "prvni": "2026-11-27",
+   "posledni": "2026-11-27",
+   "aktivni": true,
+   "_detail": true,
+   "_dv": 2,
+   "historie": [
+    {
+     "d": "2026-11-27",
+     "cena": 8500000
+    }
+   ],
+   "priroda": {
+    "les_m": 204,
+    "les_1km": 39,
+    "les_2km": 44,
+    "vyska": 328,
+    "prevyseni": 160,
+    "clenitost": 32
+   },
+   "_geo": "49.1483,16.3503",
+   "vzdusne": {
+    "rosice": 4.7,
+    "strelice": 10.9,
+    "padochov": 1.3
+   },
+   "dojezd": {
+    "rosice": 10,
+    "strelice": 20,
+    "padochov": 2,
+    "brno": 30,
+    "hranice": 97,
+    "d1": 16,
+    "d1_exit": "178 Ostrovačice",
+    "_v": 2
+   },
+   "poi_odhad": true,
+   "dum": "br-1092240"
+  },
+  "id-6b045710b0a4453e59023d96": {
+   "id": "id-6b045710b0a4453e59023d96",
+   "zdroj": "iDNES Reality",
+   "url": "https://reality.idnes.cz/detail/prodej/dum/oslavany-padochovska/6b045710b0a4453e59023d96/",
+   "nazev": "Prodej domu 100 m² s pozemkem 370 m²",
+   "cena": 2990000,
+   "obec": "Oslavany",
+   "adresa": "Padochovská, Oslavany",
+   "lat": 49.12257901274293,
+   "lon": 16.343218220391346,
+   "presnost": "adresa",
+   "pokoje": null,
+   "dispozice": "",
+   "uzitna": 100,
+   "pozemek": 370,
+   "typ": "",
+   "poloha": "samostatný",
+   "stavba": "cihla",
+   "stav": "před rekonstrukcí",
+   "penb": "G",
+   "rk": "Bidli",
+   "popis": "Prodej rodinný dům, zahrada\nExkluzivně nabízíme prodej rodinného domu, jedná se o jedinečnou nemovitostní příležitost na okraji obce Oslavany, která zaujme nejen svou polohou na vyvýšeném místě s krásným výhledem do okolní krajiny, ale také širokými možnostmi využití.\nRodinný dům je dvoupodlažní objekt určený k rekonstrukci. Novému majiteli tak dává možnost přizpůsobit si jeho dispozici i celkové provedení vlastním představám a potřebám. samostatné bydlení nebo jako zajímavá investiční příležitost.\nLokalita na okraji Oslavan poskytuje příjemné prostředí s dostatkem soukromí, otevřeným výhledem do krajiny a potenciálem pro klidné rodinné bydlení.\nFinancování zajistíme opravdu všem. Možnost koupě i na splátky při akontaci 747.000,-Kč je splátka cca 14.500,-Kč.",
+   "fotky": [
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/0/b/5/779c4db9df6d36d9df7c651e63356.webp",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/2/2/2/4bdeaef78792717560ce463c6ef31.jpg",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/9/0/4/a00c193839e31593c8457436c89a5.jpg"
+   ],
+   "vlastnosti": [
+    "výhled",
+    "k rekonstrukci"
+   ],
+   "voda": "vodovod",
+   "kanalizace": "",
+   "garaz": null,
+   "sklep": null,
+   "poi": {
+    "skolka": 709,
+    "skola": 773,
+    "obchod": 779,
+    "lekar": 786,
+    "bus": 84,
+    "vlak": 3626
+   },
+   "prvni": "2026-11-27",
+   "posledni": "2026-11-27",
+   "aktivni": true,
+   "_detail": true,
+   "_dv": 2,
+   "historie": [
+    {
+     "d": "2026-11-27",
+     "cena": 2990000
+    }
+   ],
+   "priroda": {
+    "les_m": 92,
+    "les_1km": 20,
+    "les_2km": 26,
+    "vyska": 244,
+    "prevyseni": 114,
+    "clenitost": 26
+   },
+   "_geo": "49.1226,16.3432",
+   "vzdusne": {
+    "rosice": 7.4,
+    "strelice": 11.8,
+    "padochov": 1.6
+   },
+   "dojezd": {
+    "rosice": 13,
+    "strelice": 18,
+    "padochov": 3,
+    "brno": 28,
+    "hranice": 95,
+    "d1": 15,
+    "d1_exit": "178 Ostrovačice",
+    "_v": 2
+   },
+   "poi_odhad": true,
+   "dum": "sr-3390402636"
+  },
+  "id-6b093845245aff40050ba008": {
+   "id": "id-6b093845245aff40050ba008",
+   "zdroj": "iDNES Reality",
+   "url": "https://reality.idnes.cz/detail/prodej/dum/brno/6b093845245aff40050ba008/",
+   "nazev": "Prodej chaty/chalupy 20 m² s pozemkem 452 m²",
+   "cena": 1199160,
+   "obec": "Brno",
+   "adresa": "Brno",
+   "lat": 49.2,
+   "lon": 16.5565,
+   "presnost": "adresa",
+   "pokoje": null,
+   "dispozice": "",
+   "uzitna": 20,
+   "pozemek": 452,
+   "typ": "",
+   "poloha": "samostatný",
+   "stavba": "dřevostavba",
+   "stav": "",
+   "penb": "G",
+   "rk": "VIAGEM a.s.",
+   "popis": "Chata (pozemky 452 m²) Nabízíme k prodeji chatu (20 m²) se zahradou ve 100% vlastnictví, parc. č. 2343/1 a 2344 v katastrálním území Jundrov, okres Brno-město, zapsáno na LV 454. GPS: 49.200003, 16.556578 Pozemky se nachází ve vyhledávané rekreační oblasti přímo v Brně, na pozemku se dá vybudovat…",
+   "fotky": [
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/c/0/3/f8a15619d489dde5d5ca1c94152e0.webp",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/7/3/b/11e2672ff29a44bbb3399c243ceaf.jpg",
+    "https://sta-reality2.1gr.cz/sta/compile/thumbs/f/6/a/b33da5a9a86fa2072b32415264f67.jpg"
+   ],
+   "vlastnosti": [
+    "sklep"
+   ],
+   "voda": "",
+   "kanalizace": "",
+   "garaz": null,
+   "sklep": true,
+   "poi": {},
+   "prvni": "2026-11-27",
+   "posledni": "2026-11-27",
+   "aktivni": true,
+   "_detail": true,
+   "_dv": 2,
+   "historie": [
+    {
+     "d": "2026-11-27",
+     "cena": 1199160
+    }
+   ],
+   "priroda": {
+    "les_m": 0,
+    "les_1km": 84,
+    "les_2km": 68,
+    "vyska": 334,
+    "prevyseni": 214,
+    "clenitost": 60
+   },
+   "_geo": "49.2000,16.5565",
+   "vzdusne": {
+    "rosice": 12.4,
+    "strelice": 6.7,
+    "padochov": 16.7
+   },
+   "dum": "id-6b093845245aff40050ba008"
   }
  },
  "zdroje": {
   "Sreality": {
    "ok": true,
-   "pocet": 434,
-   "cas": "2026-11-26T14:00:19+00:00"
+   "pocet": 442,
+   "cas": "2026-11-27T13:59:09+00:00"
   },
   "iDNES Reality": {
    "ok": true,
-   "pocet": 413,
-   "cas": "2026-11-26T14:01:10+00:00"
+   "pocet": 420,
+   "cas": "2026-11-27T13:59:43+00:00"
   },
   "Bezrealitky": {
    "ok": true,
    "pocet": 11,
-   "cas": "2026-11-26T14:01:40+00:00"
+   "cas": "2026-11-27T14:00:02+00:00"
   },
   "Reas": {
    "ok": false,
    "pocet": 56,
-   "cas": "2026-11-26T14:02:10+00:00",
+   "cas": "2026-11-27T14:00:17+00:00",
    "chyba": "429"
   }
  },
- "aktualizovano": "2026-11-26T14:02:10+00:00"
+ "aktualizovano": "2026-11-27T14:00:17+00:00"
 }
